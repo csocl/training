@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 001 - Hello World", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 002 - data types", "..\..\..\Lesson 002 - data types\Lesson 002 - data types.csproj", "{AD3B8698-7A04-4DBD-AB7C-F21B081B5735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 003 - operators and precedence", "..\..\..\Lesson 003 - operators and precedence\Lesson 003 - operators and precedence.csproj", "{F01642C5-D67E-42BE-8AEF-9CE4748E445C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AD3B8698-7A04-4DBD-AB7C-F21B081B5735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3B8698-7A04-4DBD-AB7C-F21B081B5735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3B8698-7A04-4DBD-AB7C-F21B081B5735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01642C5-D67E-42BE-8AEF-9CE4748E445C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01642C5-D67E-42BE-8AEF-9CE4748E445C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01642C5-D67E-42BE-8AEF-9CE4748E445C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01642C5-D67E-42BE-8AEF-9CE4748E445C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
