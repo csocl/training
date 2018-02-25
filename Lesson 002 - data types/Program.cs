@@ -32,24 +32,27 @@ namespace Lesson_002___data_types
             Console.WriteLine("letter A numeric value is : " + (ushort)letter_A);
 
             // Integer values store whole numbers, and can be signed or unsigned.
-            // short and ushort can store 16-bit values.
+            // short and ushort can store 16-bit values (Int16 is the equivalent type).
             short s = -32000;
             Console.WriteLine("s value is : " + s);
 
+            // (UInt16 is the equivalent type)
             ushort us = 32000;
             Console.WriteLine("us value is : " + us);
 
-            // int and uint can store 32-bit values.
+            // int and uint can store 32-bit values (Int32 is the equivalent type).
             int i = -99000;
             Console.WriteLine("i value is : " + i);
 
+            // (UInt32 is the equivalent type).
             uint ui = 99000;
             Console.WriteLine("ui value is : " + ui);
 
-            // long and ulong can store 64-bit values.
+            // long and ulong can store 64-bit values (Int64 is the equivalent type).
             long l = -200000000;
             Console.WriteLine("l value is : " + l);
 
+            // (UInt64 is the equivalent type).
             ulong ul = 200000000;
             Console.WriteLine("ul value is : " + ul);
 
