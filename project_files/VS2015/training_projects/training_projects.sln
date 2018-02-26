@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 004 - conditions", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 005 - loops", "..\..\..\Lesson 005 - loops\Lesson 005 - loops.csproj", "{F3EA8C9F-AD41-40EC-BD8F-6E00AC6DA1B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 006 - value types and reference types", "..\..\..\Lesson 006 - value types and reference types\Lesson 006 - value types and reference types.csproj", "{0788EEEE-98A1-4A9C-9EDF-8E5366E02716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F3EA8C9F-AD41-40EC-BD8F-6E00AC6DA1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3EA8C9F-AD41-40EC-BD8F-6E00AC6DA1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3EA8C9F-AD41-40EC-BD8F-6E00AC6DA1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0788EEEE-98A1-4A9C-9EDF-8E5366E02716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0788EEEE-98A1-4A9C-9EDF-8E5366E02716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0788EEEE-98A1-4A9C-9EDF-8E5366E02716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0788EEEE-98A1-4A9C-9EDF-8E5366E02716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
