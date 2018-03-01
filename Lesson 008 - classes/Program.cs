@@ -10,7 +10,13 @@ namespace Lesson_008___classes
     {
         static void Main(string[] args)
         {
-            // Any class is a reference type, and must be constructed using the new keyword.
+            /* Any class is a reference type, and must be constructed using the new keyword.
+             * C# manages reference types, and any memory allocated for a class will be
+             * freed by the built in garbage collector.
+             * It's not important for now to understand how the garbage collector works,
+             * only that it knows when an new object is no longer used and that it will
+             * free the object from memory.
+             */
             Person person = new Person();
 
             // Once the person object has been created, the methods on the person object
